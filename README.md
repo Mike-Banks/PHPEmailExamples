@@ -5,4 +5,5 @@ PHP Scripts that can be used to send encrypted emails with Google's SMTP Server 
 Scripts based off of the following:
 
 https://github.com/PHPMailer/PHPMailer
+
 https://github.com/PHPMailer/PHPMailer/wiki/Using-Gmail-with-XOAUTH2
