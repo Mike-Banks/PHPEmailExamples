@@ -16,7 +16,7 @@ use PHPMailer\PHPMailer\OAuth;
 // Alias the League Google OAuth2 provider class
 use League\OAuth2\Client\Provider\Google;
 
-// Load Composer's autoloader - TODO: Set path to your atuload.php file
+// Load Composer's autoloader - TODO: Set path to your autoload.php file
 require '<PATH_TO_DIRECTORY>/vendor/autoload.php';
 
 // Retrieve the POST parameters
